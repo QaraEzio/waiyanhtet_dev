@@ -137,7 +137,8 @@ export const Hero = () => {
                         : 'text-transparent bg-clip-text bg-gradient-to-br from-purple-600 to-pink-600'
                     }`}
                   >
-                    <img className='w-full h-full' src="../src/assets/2025-07-02 4.40.50 PM.jpg" alt="" />
+                    <img className='w-full h-full' src="https://i.postimg.cc/rmKwZZTD/temp-Imagen-PZam-W.avif"  alt="" />
+
                   </span>
                 </div>
               </div>
